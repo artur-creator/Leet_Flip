@@ -1,0 +1,4 @@
+﻿  flip.cpp
+C:\Users\tauru\source\repos\Leet_Flip\flip\flip.cpp(29,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tauru\source\repos\Leet_Flip\flip\flip.cpp(29,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  flip.vcxproj -> C:\Users\tauru\source\repos\Leet_Flip\flip\x64\Debug\flip.exe

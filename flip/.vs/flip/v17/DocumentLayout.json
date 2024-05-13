@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tauru\\source\\repos\\Leet_Flip\\flip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4867E93-848F-4AAE-A7B7-A2F9D44A0BFD}|flip.vcxproj|C:\\Users\\tauru\\source\\repos\\Leet_Flip\\flip\\flip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4867E93-848F-4AAE-A7B7-A2F9D44A0BFD}|flip.vcxproj|solutionrelative:flip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "flip.cpp",
+              "DocumentMoniker": "C:\\Users\\tauru\\source\\repos\\Leet_Flip\\flip\\flip.cpp",
+              "RelativeDocumentMoniker": "flip.cpp",
+              "ToolTip": "C:\\Users\\tauru\\source\\repos\\Leet_Flip\\flip\\flip.cpp",
+              "RelativeToolTip": "flip.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T19:20:13.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
